@@ -31,7 +31,7 @@
 # La variable "default payment next month" corresponde a la variable objetivo.
 #
 # El dataset ya se encuentra dividido en conjuntos de entrenamiento y prueba
-# en la carpeta "files/input/".
+# en la carpeta "../files/input/".
 #
 # Los pasos que debe seguir para la construcción de un modelo de
 # clasificación están descritos a continuación.
